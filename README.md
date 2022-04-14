@@ -6,6 +6,11 @@ Repository Tugas Praktikum 4 mata kuliah Desain dan Pemrograman Web 2022
 > 2007392<br/>
 > Ilmu Komputer - C1
 
+## Tampilan Website
+![image](https://user-images.githubusercontent.com/99251032/163339119-132d527d-3d2a-4226-8fcb-d1d197ba9640.png)
+![image](https://user-images.githubusercontent.com/99251032/163339404-55b94330-6fdb-4adf-8cbe-edd31b90a7f0.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
