@@ -1,3 +1,11 @@
+# Tugas Praktikum 4 DPW
+
+Repository Tugas Praktikum 4 mata kuliah Desain dan Pemrograman Web 2022
+
+> Arik Rizki Akbar<br/>
+> 2007392<br/>
+> Ilmu Komputer - C1
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
